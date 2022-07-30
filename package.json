@@ -2,7 +2,7 @@
   "name": "active-storage-demo",
   "private": true,
   "engines": {
-    "node": "~16.14"
+    "node": "~12.22"
   },
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
